@@ -10,3 +10,12 @@ nav{
         font-size: 2rem;
         padding: 1rem;
 }
+.container{
+    max-width: 900px;
+    padding-top: 3rem;
+    margin: auto;
+    font-size: 1.3rem;
+}
+.container li h3{
+    margin-left: auto;
+}
