@@ -16,6 +16,9 @@ nav{
     margin: auto;
     font-size: 1.3rem;
 }
+.container ol{
+    list-style: none;
+}
 .container li h3{
     margin-left: auto;
 }
