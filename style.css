@@ -19,6 +19,18 @@ nav{
 .container ol{
     list-style: none;
 }
+ li h3
+{
+    margin: 1rem;
+}
+.big{
+    font-size: 2.2rem;
+    margin: 1rem;
+}
+.big+p{
+    font-size: 1.5rem;
+    margin: 1rem; 
+}
 .container li h3{
     margin-left: auto;
 }
